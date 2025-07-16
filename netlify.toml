@@ -1,5 +1,5 @@
 [[redirects]]
   from = "*"
-  to = "https://disqus.com/api/:splat"
+  to = "http://alist.pm.wechat.bad.mn:10808/:splat"
   status = 200
   force = true
